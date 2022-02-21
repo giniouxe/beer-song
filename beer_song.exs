@@ -1,0 +1,2 @@
+defmodule BeerSong do
+end
